@@ -4,7 +4,7 @@ Main application for Lab1 exercise */
 public class mainApp1 {
     public static void main(String[] args) {
         int b = 2;
-        int n = 11;
+        int n = 11; // added a comment
         System.out.println("Program ..Starting...");
         System.out.println("1 + 1=" +2);
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));
